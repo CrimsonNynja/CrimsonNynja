@@ -1,4 +1,4 @@
-# Hi, Im Hudson
+# Hi, I'm Hudson
 
 I am a developer working for [REA](https://www.rea-group.com/) who is enthusiastic about all things code.
 
