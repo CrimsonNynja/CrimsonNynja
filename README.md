@@ -1,6 +1,6 @@
 # Hi, I'm Hudson
 
-I am a developer working for [REA](https://www.rea-group.com/) who is enthusiastic about all things code.
+I am a developer currently working for [REA group](https://www.rea-group.com/) who is enthusiastic about all things code.
 
 Proficient in both front and backend programming, I have a wide range of knowledge from across different programming languages, paradigms, and libraries.
 
